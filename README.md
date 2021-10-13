@@ -12,12 +12,10 @@ You can view a live demo over at : https://movie-app-react-trk.herokuapp.com/
 To get the frontend running locally:
 
 ### `clone this repo`
-### `npm install -g json-server`
 ### `npm install` to install all req'd dependencies
-### `json-server --watch db.json`
-### `npm run "start_local"` to start the local server
+### `npm "start"` to start the local server
 
-## npm start_local
+## npm start
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
