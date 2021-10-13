@@ -2,7 +2,7 @@ You can view a live demo over at : https://movie-app-react-trk.herokuapp.com/
 
 ## About The Project
 
-● This project is a simplified implementation of a shopping system, the project aims to provide the basic features that are expected to be found in an e-commerce application where users can purchase, add items to their cart and delete items on cart.
+● Movie Searching App is works as entering a movie title and choose the movie you are interested in from the list. Hover on a movie to see more info about it.
 
 ## Built With
 
